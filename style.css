@@ -1,0 +1,7 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: gray;
+    align-items: center;
+    display: grid;
+    justify-content: center;
+}
